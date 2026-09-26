@@ -1,6 +1,6 @@
 cask "instello" do
-  version "0.1.0"
-  sha256 "6e8f0de0a255714ba0f6b528378aae1fe8d8a4b723c395b89d6004761c318ccb"
+  version "0.1.1"
+  sha256 "6a6f2e0f8846e34260562b26999ff9bd864085bbf7b2ecd35c4b74e8c0460300"
 
   url "https://download.instello.app/Instello-#{version}.dmg"
   name "Instello"
